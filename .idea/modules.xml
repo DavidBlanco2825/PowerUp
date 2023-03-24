@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/power-up-project.iml" filepath="$PROJECT_DIR$/.idea/power-up-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/power-up-user.main.iml" filepath="$PROJECT_DIR$/.idea/modules/power-up-user.main.iml" />
     </modules>
   </component>
 </project>
